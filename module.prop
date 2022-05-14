@@ -1,0 +1,6 @@
+id=splash-empty
+name=Disable splash screen
+version=v01
+versionCode=1
+author=AndroPlus
+description=Don't show splash screen when launching apps
